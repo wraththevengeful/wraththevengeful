@@ -1,6 +1,6 @@
 
-<div align="center">
-# Hello there, friend! 🦥
+<div align="center" font-weight="bold>
+Hello there, friend! 🦥
 </div>
 <!--
 **wraththevengeful/wraththevengeful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
