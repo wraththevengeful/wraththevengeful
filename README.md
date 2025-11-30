@@ -5,7 +5,7 @@ Hello there, friend! 🦥
 **wraththevengeful/wraththevengeful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">
-  
+  I am Elanchezhiyan E, an MCA graduate from College of Engineering, <a href="https://www.annauniv.edu">Anna University</a>, Guindy, Chennai. 
 </p>
 
 Here are some ideas to get you started:
