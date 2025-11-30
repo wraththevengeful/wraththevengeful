@@ -21,7 +21,7 @@ I am Elanchezhiyan E, an MCA graduate from College of Engineering, <a href="http
 - And a Java Certification [here](https://certificates.mooc.fi/validate/ra5mh2y2a7)
 
 ### Connect with me on:
-[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">]([https://www.linkedin.com/in/poornashree-thirumalai-6b1b19220/](https://www.linkedin.com/in/elanchezhiyan2440/))
+[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/elanchezhiyan2440/)
 <br><br/>
 [<img src = "https://img.shields.io/badge/hackerrank-%2322DC060.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/profile/elanchezhiyan241)
 <br>
@@ -31,6 +31,20 @@ I am Elanchezhiyan E, an MCA graduate from College of Engineering, <a href="http
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,sass,vite,mongodb,mysql,sqlite,expressjs,nodejs,spring,c,cpp,java,python,js,ts,bash,latex,md,linux,git,github,githubactions,gcp,aws,figma,wordpress,vscode,idea,androidstudio,postman&perline=8" />
+  </a>
+</p>
+
+## ❤️ Let's get connected:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elanchezhiyan2440/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
+  </a> 
+  <a href="https://github.com/wraththevengeful" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
+  </a> 
+  <a href="mailto:elanchezhiyan2440@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/>
   </a>
 </p>
 
